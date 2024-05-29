@@ -23,6 +23,9 @@ int main(int argc, char *argv[])
     dog.Speak("Bark Bark!!");
     cat.Speak("Meoww!!");
     jaguar.Speak("purrr!");
+    // Animal(0x16f33f5a0, name = "Rory") "Bark Bark!!"
+    // Animal(0x16f33f580, name = "scarlett") "Meoww!!"
+    // Animal(0x16f33f570, name = "Tigerr") "purrr!"
 
     return a.exec();
 }
