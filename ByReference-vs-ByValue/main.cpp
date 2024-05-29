@@ -84,7 +84,7 @@ int main(int argc, char *argv[])
     qInfo() << &objPointer; //0x16b93f3e0 //this is the address of objPointer variable in memory ---(a)
     //Why is that so (at ---(a)
     //because when `&` operator is used on a pointer variable, the `&` operator gives the address of the pointer variable itself, not the address it points to
-    //on the other hand when you use `&` operator on a object allocated on a heap, referred to by a normal variable, you get the address of the obejct itself
+    //on the other hand when you use `&` operator on a object allocated on the stack, referred to by a normal variable, you get the address of the obejct itself
 
     QObject testObj;
     testObj.setObjectName("longMeow");
