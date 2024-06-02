@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-60eab2f6c68aad421bfc.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Constructors-n-Deconstructors",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Constructors-n-Deconstructors::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Constructors-n-Deconstructors-Debug-a12a33e7c098fbb65ebd.json",
+					"name" : "Constructors-n-Deconstructors",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Constructors-n-Deconstructors_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Constructors-n-Deconstructors_autogen-Debug-3e2af7719991b525a8fc.json",
+					"name" : "Constructors-n-Deconstructors_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Constructors-n-Deconstructors_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Constructors-n-Deconstructors_autogen_timestamp_deps-Debug-b45238b9d6b9928ee81d.json",
+					"name" : "Constructors-n-Deconstructors_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/anmolkhanna/Downloads/Programming_Savings_2024/QT/Up-n-Running-QT6/Constructors-n-Deconstructors/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug",
+		"source" : "/Users/anmolkhanna/Downloads/Programming_Savings_2024/QT/Up-n-Running-QT6/Constructors-n-Deconstructors"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
